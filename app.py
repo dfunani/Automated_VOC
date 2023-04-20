@@ -9,7 +9,7 @@ from services.args.args_parser import ArgsParse
 class Application:
     """Abstraction of the main application
     """
-    Emails: list[dict] = []
+    Emails: list[dict] = list([])
     
     def __init__(self,  email: str = None, password: str = None, folder: str = None, attachment_dest: str = None, read_dest: str = None, timeout: int = 60) -> None:
         """Constructor

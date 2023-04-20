@@ -1,0 +1,285 @@
+Subject
+
+Tips for using your new inbox
+
+
+Plain_Text
+
+Tips for using your new inbox
+[image: Gmail]
+
+Welcome to your inbox
+[image: Search]
+Find emails fast
+With the power of Google Search in your inbox, you can archive
+<https://support.google.com/mail/answer/6576?hl=3Den&utm_source=3Dgmailwelc=
+omeemail&utm_medium=3Demail&utm_campaign=3Dgmailwelcome>
+all your email and find it
+<https://support.google.com/mail/answer/6593?hl=3Den&utm_source=3Dgmailwelc=
+omeemail&utm_medium=3Demail&utm_campaign=3Dgmailwelcome>
+later in a flash. Your inbox stays tidy, and you never need to worry about
+what to keep.
+[image: Personalize]
+Personalize The Digital Academy Mail
+Customize inbox backgrounds, email signatures, and other options in The
+Digital Academy Mail settings
+<https://support.google.com/mail/answer/6562?hl=3Den&utm_source=3Dgmailwelc=
+omeemail&utm_medium=3Demail&utm_campaign=3Dgmailwelcome>.
+Review and adjust your privacy and security settings at My Account
+<https://myaccount.google.com/>.
+[image: Organize]
+Organize your email
+You can organize email with labels
+<https://support.google.com/mail/answer/118708?hl=3Den&utm_source=3Dgmailwe=
+lcomeemail&utm_medium=3Demail&utm_campaign=3Dgmailwelcome>,
+which are like folders, but you can add more than one label to a message.
+You can also use filters
+<https://support.google.com/mail/answer/6579?hl=3Den&utm_source=3Dgmailwelc=
+omeemail&utm_medium=3Demail&utm_campaign=3Dgmailwelcome>
+to automatically sort and categorize messages as they come in.
+[image: Social]
+Chat and meet from your inbox
+Chat with contacts and start video meetings with up to 25 people in Google
+Hangouts
+<https://support.google.com/hangouts/answer/3115176?hl=3Den&utm_source=3Dgm=
+ailwelcomeemail&utm_medium=3Demail&utm_campaign=3Dgmailwelcome>
+.
+
+Get training and tips
+Find Gmail guides, tips, cheat sheets, help switching from Microsoft=C2=AE
+Outlook=C2=AE, and more at the Google Workspace Learning Center
+<https://support.google.com/a/users/answer/9259748?hl=3Den&utm_source=3Dgma=
+ilwelcomeemail&utm_medium=3Demail&utm_campaign=3Dgmailwelcome>
+.
+Visit the Learning Center
+<https://support.google.com/a/users/answer/9259748?hl=3Den&utm_source=3Dgma=
+ilwelcomeemail&utm_medium=3Demail&utm_campaign=3Dgmailwelcome>
+
+Happy emailing,
+The Gmail Team
+[image: Google Cloud]
+
+=C2=A9 2023 Google LLC 1600 Amphitheatre Parkway, Mountain View, CA 94043
+
+*You=E2=80=99re receiving this mandatory email service announcement to upda=
+te you
+about important changes to your Google Cloud product or account.*
+
+
+
+Plain_HTML
+
+  
+
+![3D"Gmail"](3D"https://s=)  
+---  
+  
+<= td style=3D"padding:5px 20px 0 20px;">
+
+Welcome to your inbox
+
+Find emails fas= t  
+With the po= wer of Google Search in your inbox, you can
+[archive](3D"https://support.goog=) all your email and [fin= d
+it](3D"https://support.google.com/=) later in a flash. Your inbox stays tidy,
+and you never need to wor= ry about what to keep.  
+---  
+  
+![3D"Personalize"](3D"https://ssl.gstatic.=)
+
+Personalize The Digital Academy Mail  
+Customize inbo= x backgrounds, email signatures, and other options in [The
+Digital Academy Mail settings](3D"https://su=). Review and adjust your=
+privacy and security settings at [My
+Account](3D"https://myaccount.google.com/"=).
+
+![3D"Organize"](3D"https://ssl.gstatic.com/accounts/services/mail/msa/gmail-w=)
+
+| Organ= ize your email  
+labels, which are like folders, but you can add more than one label to a
+messag= e. You can also use
+[filters](3D"https://support.google.com/mail/answer/6579?=) to autom= atically
+sort and categorize messages as they come in.  
+---  
+  
+= ![3D"Social"](3D"https://ssl.gstatic.com/accounts/services/mail/msa/gmail-
+welcom=)
+
+Chat and mee= t from your inbox  
+Chat with contacts and start video meetings with up to 25 people in Google
+Hangouts.  
+  
+---  
+  
+|  
+= Get training and tips  
+Find Gmail guides, tips, cheat sheets, help switching from Microso= ft=C2=AE
+Outlook=C2=AE, and more at the [Google Workspace Learning Center](3D"ht=).  
+---  
+<= td style=3D"-moz-hyphens:none;-webkit-hyphens:none;margin:0;border-
+collapse= :collapse!important; line-
+height:inherit;margin:0;padding:0;vertical-align:= top;">| [Visit the Learning
+Center](3D"https://support.google.com/a/users/answer/9259748?hl=3Den&utm=)  
+---  
+<= /tr>  
+  
+Happy emailing,  
+The Gmail Team  
+<= /div>  
+  
+---  
+  
+=C2=A9 2023 Google LLC 1600 Amphitheatre Parkway, Moun= tain View, CA 94043
+
+ _You=E2=80=99re receiving this m= andatory email service announcement to
+update you about important changes t= o your Google Cloud product or account._
+
+
+
+
+HTML
+
+<!DOCTYPE html><html><head><meta http-equiv=3D"content-type" content=3D"tex=
+t/html;charset=3DUTF-8"/><title>Tips for using your new inbox</title></head=
+><body style=3D"direction:ltr;text-align:left;background-color:#f8f9fa; mar=
+gin:20px 0;"><br/><div style=3D"margin:2%;"><div style=3D"width:100%;margin=
+:0 auto 0 auto;"><table style=3D"vertical-align:middle;width:580px;margin:0=
+ auto 0 auto;border:1px; border-color:black;"><tr><td><img src=3D"https://s=
+sl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_2x_r2.png" sr=
+cset=3D"https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_defa=
+ult_1x_r2.png 1x, https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_l=
+ockup_default_2x_r2.png 2x" alt=3D"Gmail" style=3D"float:left;max-height:40=
+px;margin:0 20px 10px 20px;"/></td></tr></table></div><div style=3D"font-fa=
+mily:Roboto,'Open sans',Arial,sans-serif;color:#444; background-color:#fff;=
+max-width:600px;margin:10px auto 0 auto;"><table style=3D"background:#fff;w=
+idth:100%;border-collapse:collapse;border-color:#e8eaed; border-spacing:0;b=
+order-style:solid;border-width:1px;display:table; position:relative;"><tr><=
+td style=3D"padding:5px 20px 0 20px;"><div style=3D"width:90%;padding-left:=
+15px;"><p><span style=3D"font-family:'Google sans',Arial,sans-serif;font-we=
+ight:700;line-height:32px; font-size:24px;">Welcome to your inbox</span></p=
+></div><div style=3D"float:left;clear:both;padding:10px 5px 10px 10px;"><im=
+g src=3D"https://ssl.gstatic.com/accounts/services/mail/msa/gmail-welcome-g=
+raphic1-2x.png" srcset=3D"https://ssl.gstatic.com/accounts/services/mail/ms=
+a/gmail-welcome-graphic1-1x.png 1x, https://ssl.gstatic.com/accounts/servic=
+es/mail/msa/gmail-welcome-graphic1-2x.png 2x" alt=3D"Search" style=3D"displ=
+ay:block;width:112px;height:auto;"/></div><div style=3D"float:left;vertical=
+-align:middle;padding:10px;max-width:398px;"><table style=3D"vertical-align=
+:middle;"><tr><td style=3D"font-family:Roboto,'Open sans',Arial,sans-serif;=
+"><span style=3D"color:#3c4043;font-family:'Google Sans',Helvetica,Arial,sa=
+ns-serif; font-size:16px;font-weight:700;line-height:20px;">Find emails fas=
+t</span><br/><span style=3D"color:#3c4043;font-family:Roboto,Helvetica,Aria=
+l,sans-serif;font-size:14px; font-weight:400;line-height:24px;">With the po=
+wer of Google Search in your inbox, you can <a href=3D"https://support.goog=
+le.com/mail/answer/6576?hl=3Den&utm_source=3Dgmailwelcomeemail&utm_medium=
+=3Demail&utm_campaign=3Dgmailwelcome" style=3D"text-decoration:none;color:#=
+15c;">archive</a> all your email and <a href=3D"https://support.google.com/=
+mail/answer/6593?hl=3Den&utm_source=3Dgmailwelcomeemail&utm_medium=3Demail&=
+utm_campaign=3Dgmailwelcome" style=3D"text-decoration:none;color:#15c;">fin=
+d it</a> later in a flash. Your inbox stays tidy, and you never need to wor=
+ry about what to keep.</span></td></tr></table></div><div style=3D"float:le=
+ft;clear:both;padding:10px 5px 10px 10px;"><img src=3D"https://ssl.gstatic.=
+com/accounts/services/mail/msa/gmail-welcome-graphic2-2x.png" srcset=3D"htt=
+ps://ssl.gstatic.com/accounts/services/mail/msa/gmail-welcome-graphic2-1x.p=
+ng 1x, https://ssl.gstatic.com/accounts/services/mail/msa/gmail-welcome-gra=
+phic2-2x.png 2x" alt=3D"Personalize" style=3D"display:block;width:112px;hei=
+ght:auto;"/></div><div style=3D"float:left;vertical-align:middle;padding:10=
+px;max-width:398px;"><table style=3D"vertical-align:middle;"><tr><td style=
+=3D"font-family:Roboto,'Open sans',Arial,sans-serif;"><span style=3D"color:=
+#3c4043;font-family:'Google Sans',Helvetica,Arial,sans-serif; font-size:16p=
+x;font-weight:700;line-height:20px;">Personalize The Digital Academy Mail</=
+span><br/><span style=3D"color:#3c4043;font-family:Roboto,Helvetica,Arial,s=
+ans-serif;font-size:14px; font-weight:400;line-height:24px;">Customize inbo=
+x backgrounds, email signatures, and other options in <a href=3D"https://su=
+pport.google.com/mail/answer/6562?hl=3Den&utm_source=3Dgmailwelcomeemail&ut=
+m_medium=3Demail&utm_campaign=3Dgmailwelcome" style=3D"text-decoration:none=
+;color:#15c;">The Digital Academy Mail settings</a>. Review and adjust your=
+ privacy and security settings at <a href=3D"https://myaccount.google.com/"=
+ style=3D"text-decoration:none;color:#15c;">My Account</a>.</span></td></tr=
+></table></div><div style=3D"float:left;clear:both;padding:10px 5px 10px 10=
+px;"><img src=3D"https://ssl.gstatic.com/accounts/services/mail/msa/gmail-w=
+elcome-graphic3-2x.png" srcset=3D"https://ssl.gstatic.com/accounts/services=
+/mail/msa/gmail-welcome-graphic3-1x.png 1x, https://ssl.gstatic.com/account=
+s/services/mail/msa/gmail-welcome-graphic3-2x.png 2x" alt=3D"Organize" styl=
+e=3D"display:block;width:112px;height:auto;"/></div><div style=3D"float:lef=
+t;vertical-align:middle;padding:10px;max-width:398px;"><table style=3D"vert=
+ical-align:middle;"><tr><td style=3D"font-family:Roboto,'Open sans',Arial,s=
+ans-serif;"><span style=3D"color:#3c4043;font-family:'Google Sans',Helvetic=
+a,Arial,sans-serif; font-size:16px;font-weight:700;line-height:20px;">Organ=
+ize your email</span><br/><span style=3D"color:#3c4043;font-family:Roboto,H=
+elvetica,Arial,sans-serif;font-size:14px; font-weight:400;line-height:24px;=
+">You can organize email with <a href=3D"https://support.google.com/mail/an=
+swer/118708?hl=3Den&utm_source=3Dgmailwelcomeemail&utm_medium=3Demail&utm_c=
+ampaign=3Dgmailwelcome" style=3D"text-decoration:none;color:#15c;">labels</=
+a>, which are like folders, but you can add more than one label to a messag=
+e. You can also use <a href=3D"https://support.google.com/mail/answer/6579?=
+hl=3Den&utm_source=3Dgmailwelcomeemail&utm_medium=3Demail&utm_campaign=3Dgm=
+ailwelcome" style=3D"text-decoration:none;color:#15c;">filters</a> to autom=
+atically sort and categorize messages as they come in.</span></td></tr></ta=
+ble></div><div style=3D"float:left;clear:both;padding:10px 5px 10px 10px;">=
+<img src=3D"https://ssl.gstatic.com/accounts/services/mail/msa/gmail-welcom=
+e-graphic4-2x.png" srcset=3D"https://ssl.gstatic.com/accounts/services/mail=
+/msa/gmail-welcome-graphic4-1x.png 1x, https://ssl.gstatic.com/accounts/ser=
+vices/mail/msa/gmail-welcome-graphic4-2x.png 2x" alt=3D"Social" style=3D"di=
+splay:block;width:112px;height:auto;"/></div><div style=3D"float:left;verti=
+cal-align:middle;padding:10px;max-width:398px;"><table style=3D"vertical-al=
+ign:middle;"><tr><td style=3D"font-family:Roboto,'Open sans',Arial,sans-ser=
+if;"><span style=3D"color:#3c4043;font-family:'Google Sans',Helvetica,Arial=
+,sans-serif; font-size:16px;font-weight:700;line-height:20px;">Chat and mee=
+t from your inbox</span><br/><span style=3D"color:#3c4043;font-family:Robot=
+o,Helvetica,Arial,sans-serif;font-size:14px; font-weight:400;line-height:24=
+px;">Chat with contacts and start video meetings with up to 25 people in <a=
+ href=3D"https://support.google.com/hangouts/answer/3115176?hl=3Den&utm_sou=
+rce=3Dgmailwelcomeemail&utm_medium=3Demail&utm_campaign=3Dgmailwelcome" sty=
+le=3D"text-decoration:none;color:#15c;">Google Hangouts</a>.</span></td></t=
+r></table></div></td></tr><tr><td style=3D"padding:0 20px 0 20px;"><div sty=
+le=3D"margin:0 20px 20px 15px;"><table style=3D"width:100%;border-collapse:=
+collapse;border:0;"><tr><td style=3D"font-family:Roboto,'Open sans',Arial,s=
+ans-serif;"><br/><span style=3D"color:#3c4043;font-family:'Google Sans',Hel=
+vetica,Arial,sans-serif;font-size:16px; font-weight:700;line-height:24px;">=
+Get training and tips</span><br/><span style=3D"color:#3c4043;font-family:R=
+oboto,Helvetica,Arial,sans-serif;font-size:14px; font-weight:400;line-heigh=
+t:24px;">Find Gmail guides, tips, cheat sheets, help switching from Microso=
+ft<sup>=C2=AE</sup> Outlook<sup>=C2=AE</sup>, and more at the <a href=3D"ht=
+tps://support.google.com/a/users/answer/9259748?hl=3Den&utm_source=3Dgmailw=
+elcomeemail&utm_medium=3Demail&utm_campaign=3Dgmailwelcome" style=3D"text-d=
+ecoration:none;color:#15c;">Google&nbsp;Workspace Learning Center</a>.</spa=
+n></td></tr><tr><td><table style=3D"margin:20px 0 0 0;border:none;border-co=
+llapse:collapse;border-radius:3px; border-spacing:0;display:inline-block;li=
+ne-height:0;max-width:100%;padding:0; transition:box-shadow .2s ease-out;ve=
+rtical-align:top;width:auto;"><tr style=3D"padding:0;vertical-align:top;"><=
+td style=3D"-moz-hyphens:none;-webkit-hyphens:none;margin:0;border-collapse=
+:collapse!important; line-height:inherit;margin:0;padding:0;vertical-align:=
+top;"><table style=3D"border-collapse:collapse;border-spacing:0;padding:0; =
+vertical-align:top;width:100%;"><tr style=3D"padding:0;vertical-align:top;"=
+><td style=3D"-moz-hyphens:none;-webkit-hyphens:none;margin:0;background:#2=
+979ff; border:none;border-collapse:collapse!important;border-radius:3px; li=
+ne-height:inherit;margin:0;padding:0;vertical-align:top; word-wrap:keep-all=
+;"><a href=3D"https://support.google.com/a/users/answer/9259748?hl=3Den&utm=
+_source=3Dgmailwelcomeemail&utm_medium=3Demail&utm_campaign=3Dgmailwelcome"=
+ style=3D"margin:0;border:0 solid #2979ff;border-radius:3px;color:#fff; dis=
+play:inline-block;font-family:Roboto,Helvetica,Arial,sans-serif; font-size:=
+14px;font-weight:500;line-height:24px;margin:0; padding:8px 16px 8px 16px;t=
+ext-decoration:none;">Visit the Learning Center</a></td></tr></table></td><=
+/tr></table></td></tr><tr><td style=3D"font-family:Roboto,'Open sans',Arial=
+,sans-serif; vertical-align:bottom;"><br/><span style=3D"color:#3c4043;font=
+-family:'Google Sans',Helvetica,Arial,sans-serif;font-size:14px; font-weigh=
+t:700;line-height:24px;">Happy emailing,</span><br/><span style=3D"color:#3=
+c4043;font-family:'Google Sans',Helvetica,Arial,sans-serif;font-size:14px; =
+font-weight:700;line-height:24px;">The Gmail Team</span></td></tr></table><=
+/div></td></tr></table></div><div style=3D"text-align:left;"><table style=
+=3D"vertical-align:middle;width:580px;margin:0 auto 0 auto;"><tr><td><img s=
+rc=3D"https://storage.googleapis.com/support-kms-prod/Yd1rPlunjtOKzNDXcw3eF=
+mVCjI828xhBZqQy" alt=3D"Google Cloud" style=3D"float:left;width:140px;heigh=
+t:auto;margin:24px 20px 0 20px;"/></td></tr><tr><td style=3D"margin-top:12p=
+x;"><p style=3D"line-height:20px;color:#6c737f;font-size:12px;font-weight:4=
+00; margin:12px 20px 12px 20px;font-family:Roboto,Arial,Helvetica,sans-seri=
+f; text-align:left;">=C2=A9 2023 Google LLC 1600 Amphitheatre Parkway, Moun=
+tain View, CA 94043</p><p style=3D"line-height:20px;color:#6c737f;font-size=
+:12px;font-weight:400; margin:12px 20px 12px 20px;font-family:Roboto,Arial,=
+Helvetica,sans-serif; text-align:left;"><em>You=E2=80=99re receiving this m=
+andatory email service announcement to update you about important changes t=
+o your Google Cloud product or account.</em></p></td></tr></table></div></d=
+iv></body></html>
+
+
+

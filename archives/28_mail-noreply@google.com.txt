@@ -1,0 +1,135 @@
+Subject
+
+Get the official Gmail app
+
+
+Plain_Text
+
+Get the official Gmail app
+[image: Gmail]
+
+Get the official Gmail app
+The best features of The Digital Academy Mail are only available on your
+phone and tablet with the official Gmail app. Download the app or go to
+gmail.com on your computer or mobile device to get started.
+
+[image: Get it on Google Play]
+<https://play.google.com/store/apps/details?id=3Dcom.google.android.gm&hl=
+=3Den>
+[image:
+Apple App Store]
+<https://apps.apple.com/app/gmail-email-by-google/id422689480?l=3Den>
+
+Happy emailing,
+The Gmail Team
+[image: Google Cloud]
+
+=C2=A9 2023 Google LLC 1600 Amphitheatre Parkway, Mountain View, CA 94043
+
+*You=E2=80=99re receiving this mandatory email service announcement to upda=
+te you
+about important changes to your Google Cloud product or account.*
+
+
+
+Plain_HTML
+
+  
+
+![3D"Gmail"](3D"https://ssl.=)  
+---  
+  
+Get the offi= cial Gmail app
+
+| The best features of = The Digital Academy Mail are only available on your
+phone and tablet with t= he official Gmail app. Download the app or go to
+[gmail.com](3D"https://gmail.c=) on your comput= er or mobile device to get
+started.| ![](3D"https://ssl.=)  
+---|---  
+  
+|
+[![3D"Get](3D"https://ssl.gstatic.com/accounts/servic=)](3D"https://play.google.com/store/apps/details?id=3Dcom.google.=)|
+[![3D"Apple](3D"https://ssl.gstatic.com=)](3D"https://apps.apple.com/app/gm=)|  
+Happy emailing,  
+The Gmail Team  
+---  
+  
+![3D"Google](3D=)  
+---  
+<= p style=3D"line-height:20px;color:#6c737f;font-size:12px;font-weight:400;
+m= argin:12px 20px 12px 20px;font-family:Roboto,Arial,Helvetica,sans-serif;
+te= xt-align:left;">=C2=A9 2023 Google LLC 1600 Amphitheatre Parkway, Mountain
+= View, CA 94043
+
+ _You=E2=80=99re receiving this mandat= ory email service announcement to
+update you about important changes to you= r Google Cloud product or account._
+
+
+
+
+HTML
+
+<!DOCTYPE html><html><head><meta http-equiv=3D"content-type" content=3D"tex=
+t/html;charset=3DUTF-8"/><title>Get the official Gmail app</title></head><b=
+ody style=3D"direction:ltr;text-align:left;background-color:#f8f9fa; margin=
+:20px 0;"><br/><div style=3D"margin:2%;"><div style=3D"width:100%;margin:0 =
+auto 0 auto;"><table style=3D"vertical-align:middle;width:580px;margin:0 au=
+to 0 auto;border:1px; border-color:black;"><tr><td><img src=3D"https://ssl.=
+gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_2x_r2.png" srcse=
+t=3D"https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default=
+_1x_r2.png 1x, https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lock=
+up_default_2x_r2.png 2x" alt=3D"Gmail" style=3D"float:left;max-height:40px;=
+margin:0 20px 10px 20px;"/></td></tr></table></div><div style=3D"font-famil=
+y:Roboto,'Open sans',Arial,sans-serif;color:#444; background-color:#fff;max=
+-width:600px;margin:10px auto 0 auto;"><table style=3D"background:#fff;widt=
+h:100%;border-collapse:collapse;border-color:#e8eaed; border-spacing:0;bord=
+er-style:solid;border-width:1px;display:table; padding:0 20px 0 20px;positi=
+on:relative;"><tr><td style=3D"padding:5px 20px 0 20px;"><div style=3D"widt=
+h:90%;padding-left:15px;"><p><span style=3D"font-family:'Google sans',Arial=
+,sans-serif;font-weight:700;line-height:32px; font-size:24px;">Get the offi=
+cial Gmail app</span></p></div><table><tr><td style=3D"font-family:Roboto,'=
+Open sans',Arial,sans-serif;padding-left:15px; padding-right:25px;width:60%=
+;"><span style=3D"color:#3c4043;font-family:Roboto,Helvetica,Arial,sans-ser=
+if;font-size:14px; font-weight:400;line-height:24px;">The best features of =
+The Digital Academy Mail are only available on your phone and tablet with t=
+he official Gmail app. Download the app or go to <a href=3D"https://gmail.c=
+om" style=3D"text-decoration:none;color:#15c;">gmail.com</a> on your comput=
+er or mobile device to get started.</span></td><td><img src=3D"https://ssl.=
+gstatic.com/accounts/services/mail/msa/gmail-app-mobile-ui2x.png" srcset=3D=
+"https://ssl.gstatic.com/accounts/services/mail/msa/gmail-app-mobile-ui1x.p=
+ng 1x, https://ssl.gstatic.com/accounts/services/mail/msa/gmail-app-mobile-=
+ui2x.png 2x" style=3D"padding:0 0 0 0;display:inline;margin-left:auto;max-h=
+eight:150px;"></td></tr></table></td></tr><tr><td style=3D"padding:0 20px 0=
+ 20px;"><div style=3D"margin:0 20px 20px 15px;"><table style=3D"width:100%;=
+border-collapse:collapse;border:0;"><tr><td style=3D"width:50%;padding-left=
+:0;"><a href=3D"https://play.google.com/store/apps/details?id=3Dcom.google.=
+android.gm&amp;hl=3Den"><img src=3D"https://ssl.gstatic.com/accounts/servic=
+es/mail/msa/google_play_store_badge_en.png" alt=3D"Get it on Google Play" s=
+tyle=3D"display:block;height:45px;padding-left:30px;"/></a></td><td style=
+=3D"width:50%;padding-right:20px;"><a href=3D"https://apps.apple.com/app/gm=
+ail-email-by-google/id422689480?l=3Den"><img src=3D"https://ssl.gstatic.com=
+/accounts/services/mail/msa/apple_app_store_badge_en.png" alt=3D"Apple App =
+Store" style=3D"display:block;height:45px;padding-right:60px;"/></a></td></=
+tr><tr><td style=3D"text-align:left;font-family:Roboto,'Open sans',Arial,sa=
+ns-serif; vertical-align:bottom;"><br/><span style=3D"color:#3c4043;font-fa=
+mily:'Google Sans',Helvetica,Arial,sans-serif;font-size:14px; font-weight:7=
+00;line-height:24px;">Happy emailing,</span><br/><span style=3D"color:#3c40=
+43;font-family:'Google Sans',Helvetica,Arial,sans-serif;font-size:14px; fon=
+t-weight:700;line-height:24px;">The Gmail Team</span></td></tr></table></di=
+v></td></tr></table></div><div style=3D"text-align:left;"><table style=3D"v=
+ertical-align:middle;width:580px;margin:0 auto 0 auto;"><tr><td><img src=3D=
+"https://storage.googleapis.com/support-kms-prod/Yd1rPlunjtOKzNDXcw3eFmVCjI=
+828xhBZqQy" alt=3D"Google Cloud" style=3D"float:left;width:140px;height:aut=
+o;margin:24px 20px 0 20px;"/></td></tr><tr><td style=3D"margin-top:12px;"><=
+p style=3D"line-height:20px;color:#6c737f;font-size:12px;font-weight:400; m=
+argin:12px 20px 12px 20px;font-family:Roboto,Arial,Helvetica,sans-serif; te=
+xt-align:left;">=C2=A9 2023 Google LLC 1600 Amphitheatre Parkway, Mountain =
+View, CA 94043</p><p style=3D"line-height:20px;color:#6c737f;font-size:12px=
+;font-weight:400; margin:12px 20px 12px 20px;font-family:Roboto,Arial,Helve=
+tica,sans-serif; text-align:left;"><em>You=E2=80=99re receiving this mandat=
+ory email service announcement to update you about important changes to you=
+r Google Cloud product or account.</em></p></td></tr></table></div></div></=
+body></html>
+
+
+

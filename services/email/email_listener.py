@@ -3,6 +3,7 @@ email_listener - uses the email_listener PYPI package
 EmailService - class abstracting the email services """
 from email_listener import EmailListener
 from decouple import config
+import re
 
 class EmailService:
     """Service class managing all functionalities relating to the email service
@@ -37,13 +38,24 @@ class EmailService:
         Returns:
             dict: A Dict of the mail retrieved and read
         """
-        return self.__listener.scrape(move=self.__read_dest, unread=True)
-
+        try: 
+            mail: dict = self.__listener.scrape(move=self.__read_dest, unread=True) # 'Strapi' Collections Workflow
+            for key in dict(mail):
+                if re.match(r".*VOC.*", dict(mail)[key]["Subject"], re.IGNORECASE):
+                    # 
+            return mail
+        except BaseException as e:
+            print(e)
     
     def listen(self):
         """Listens for incoming mails on the IMAP server 
         """
-        self.__listener.listen(self.__timeout)
+        try:
+            self.__listener.listen(self.__timeout)
+        except BaseException as e:
+            print(e)
+        finally:
+            self.listen()
         
 
 if __name__ == "__main__":

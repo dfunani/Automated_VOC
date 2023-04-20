@@ -1,0 +1,53 @@
+Subject
+
+Fwd: Testing 64
+
+
+Plain_Text
+
+testing for nothing
+
+---------- Forwarded message ---------
+From: Delali Funani <dfunani@gmail.com>
+Date: Thu, Apr 20, 2023 at 4:05=E2=80=AFPM
+Subject: Testing 64
+To: <delali@thedigitalacademy.co.za>
+
+
+Testing again
+
+
+
+Plain_HTML
+
+testing=C2=A0for nothing  
+  
+
+\---------- Forwarded message -------= \--  
+From: **Delali Funani <[dfunani= @gmail.com](3D"mailto:dfunani@gmail.com")>  
+Date: Thu, Apr 20, 2023 at 4:05=E2=80=AFPM  
+= Subject: Testing 64  
+To: <[delali@thedigitalacademy.co.za](3D"mailto:delali@thedigitalacademy.=)>  
+
+  
+  
+
+Testing again
+
+
+
+
+HTML
+
+<div dir=3D"ltr">testing=C2=A0for nothing<br><br><div class=3D"gmail_quote"=
+><div dir=3D"ltr" class=3D"gmail_attr">---------- Forwarded message -------=
+--<br>From: <strong class=3D"gmail_sendername" dir=3D"auto">Delali Funani</=
+strong> <span dir=3D"auto">&lt;<a href=3D"mailto:dfunani@gmail.com">dfunani=
+@gmail.com</a>&gt;</span><br>Date: Thu, Apr 20, 2023 at 4:05=E2=80=AFPM<br>=
+Subject: Testing 64<br>To:  &lt;<a href=3D"mailto:delali@thedigitalacademy.=
+co.za">delali@thedigitalacademy.co.za</a>&gt;<br></div><br><br><div dir=3D"=
+auto">Testing again</div>
+</div></div>
+
+
+
