@@ -26,7 +26,9 @@ The Service's base/main class encapsulating and abstracting the basic functional
 ```usage
 from services.email.email_listener import EmailService
 
-emailService = EmailService(self.email, self.password, self.folder, self.attachment_dest, self.read_dest, self.timeout)
+emailService = EmailService(self.email, self.password,\
+                            self.folder, self.attachment_dest,\
+                            self.read_dest, self.timeout)
 emailService.login()
 emailService.read() # Returns Dictionary of the Email Object (Refer to Returns below)
 emailService.listen()
