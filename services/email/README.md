@@ -35,4 +35,5 @@ emailService.listen()
 ```
 
 ## Returns
+
 ![Emails Dictionary](https://github.com/dfunani/Automated_VOC/blob/84784eef8b199782eeff78631450ac0863a2a444/services/email/visualize-json-data-graph.jpeg)
