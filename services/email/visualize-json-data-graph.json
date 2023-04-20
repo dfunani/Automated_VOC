@@ -1,0 +1,35 @@
+[
+  {
+    "13_nathaniel@thedigitalacademy.co.za": {
+      "Subject": "Pictures",
+      "Plain_Text": "Sho Dela,\r\n",
+      "Plain_HTML": "Sho Dela,  \n  \n  \n\n",
+      "HTML": "<div dir='ltr'>Sho Dela,<br><br><br></div>\r\n",
+      "attachments": [
+        "./archives/IMG_3903.HEIC",
+        "./archives/IMG_3904.HEIC",
+        "./archives/IMG_3902.HEIC",
+        "./archives/IMG_3901.HEIC",
+        "./archives/IMG_3905.HEIC"
+      ]
+    },
+    "17_dfunani@gmail.com": {
+      "Subject": "Testing app",
+      "Plain_Text": "Hi\r\n\r\nBody of the email\r\n\r\nRegards\r\n",
+      "Plain_HTML": "Hi=C2=A0\n\n  \n\nBod= y of the email=C2=A0\n\n  \n\nReg= ards\n\n",
+      "HTML": "<div dir=3D'auto'>Hi=C2=A0<div dir=3D'auto'><br></div><div dir=3D'auto'>Bod=\r\ny of the email=C2=A0</div><div dir=3D'auto'><br></div><div dir=3D'auto'>Reg=\r\nards</div></div>\r\n",
+      "attachments": [
+        "./archives/Screenshot_20230420-071911_Teams.jpg"
+      ]
+    },
+    "18_dfunani@gmail.com": {
+      "Subject": "Fwd: Testing app",
+      "Plain_Text": "---------- Forwarded message ---------\r\nFrom: Delali Funani <dfunani@gmail.com>\r\nDate: Thu, 20 Apr 2023, 11:01\r\nSubject: Testing app\r\nTo: <delali@thedigitalacademy.co.za>\r\n\r\n\r\nHi\r\n\r\nBody of the email\r\n\r\nRegards\r\n",
+      "Plain_HTML": "  \n\n\\---------- Forwarded message ---------  \nFrom: **Delali Funani** <[dfunani@gmail.com](3D'mailto:dfunani@gmail.com')>  \nDate: Thu, 20 Apr 2023, 11:01  \nSubject: Testing app  \nTo: <<= a\nhref=3D'mailto:delali@thedigitalacademy.co.za'>delali@thedigitalacademy.c=\no.za>  \n\n  \n  \n\nHi=C2=A0\n\n<= br>\n\nBody of the email=C2=A0\n\n<= br>\n\nRegards\n\n",
+      "HTML": "<div dir=3D'auto'></div><br><div class=3D'gmail_quote'><div dir=3D'ltr' cla=\r\nss=3D'gmail_attr'>---------- Forwarded message ---------<br>From: <strong c=\r\nlass=3D'gmail_sendername' dir=3D'auto'>Delali Funani</strong> <span dir=3D'=\r\nauto'>&lt;<a href=3D'mailto:dfunani@gmail.com>dfunani@gmail.com</a>&gt;</s=\r\npan><br>Date: Thu, 20 Apr 2023, 11:01<br>Subject: Testing app<br>To:  &lt;<=\r\na href=3D'mailto:delali@thedigitalacademy.co.za'>delali@thedigitalacademy.c=\r\no.za</a>&gt;<br></div><br><br><div dir=3D'auto'>Hi=C2=A0<div dir=3D'auto'><=\r\nbr></div><div dir=3D'auto'>Body of the email=C2=A0</div><div dir=3D'auto'><=\r\nbr></div><div dir=3D'auto'>Regards</div></div>\r\n</div>\r\n",
+      "attachments": [
+        "./archives/Screenshot_20230420-071911_Teams.jpg"
+      ]
+    }
+  }
+]
