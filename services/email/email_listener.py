@@ -42,8 +42,7 @@ class EmailService:
             mail: dict = self.__listener.scrape(move=self.__read_dest, unread=True) # 'Strapi' Collections Workflow
             for key in dict(mail):
                 if re.match(r".*VOC.*", dict(mail)[key]["Subject"], re.IGNORECASE):
-                    # 
-            return mail
+                    return mail
         except BaseException as e:
             print(e)
     
