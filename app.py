@@ -5,7 +5,7 @@
     
 from services.email.email_listener import EmailService
 from services.args.args_parser import ArgsParse
-
+from services.strapi.service import strapi
 class Application:
     """Abstraction of the main application
     """
@@ -26,14 +26,19 @@ class Application:
         """
         emailService = EmailService(self.email, self.password, self.folder, self.attachment_dest, self.read_dest, self.timeout)
         emailService.login()
-        Application.Emails.append(emailService.read())
+        message = emailService.read()
         emailService.listen()
+        if message:
+            strapi(message.get('app_id'))
+            Application.Emails.append(message.get("email"))
+        
         
         
 if __name__ == "__main__":
     argsParse = ArgsParse()
     app = Application(**argsParse.parse())
-    try:
-        app.MainLoop()
-    except KeyboardInterrupt:
-        print(Application.Emails)
+    while True:
+        try:
+            app.MainLoop()
+        except KeyboardInterrupt:
+            print(Application.Emails)

@@ -1,2 +1,4 @@
 email_listener
 python-decouple
+requests
+asyncio

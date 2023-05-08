@@ -4,7 +4,8 @@ EmailService - class abstracting the email services """
 from email_listener import EmailListener
 from decouple import config
 import re
-
+from services.strapi.service import strapi
+import asyncio
 class EmailService:
     """Service class managing all functionalities relating to the email service
     """
@@ -40,12 +41,15 @@ class EmailService:
         """
         try: 
             mail: dict = self.__listener.scrape(move=self.__read_dest, unread=True) # 'Strapi' Collections Workflow
-            for key in dict(mail):
-                if re.match(r".*VOC.*", dict(mail)[key]["Subject"], re.IGNORECASE):
-                    return mail
+            if re.match(r'*Ayoba Developer Portal*', dict(mail).get('Subject'), re.IGNORECASE):
+                micro_app_id = re.match(r'*MicroApp Id: (\d+)*', dict(mail).get('Plain_Text'), re.IGNORECASE)
+                if micro_app_id.groups() and micro_app_id.groups()[0].isnumeric():
+                    return {"email": mail, "app_id": int(micro_app_id.groups()[0])}
+            return {}
         except BaseException as e:
             print(e)
-    
+            return {}
+       
     def listen(self):
         """Listens for incoming mails on the IMAP server 
         """
@@ -54,8 +58,8 @@ class EmailService:
         except BaseException as e:
             print(e)
         finally:
-            self.listen()
-        
+            self.__listener.logout()
+            print("logged out")       
 
 if __name__ == "__main__":
     None
