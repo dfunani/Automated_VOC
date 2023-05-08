@@ -1,0 +1,82 @@
+Subject
+
+Fwd: Attention: Ayoba Developer Portal
+
+
+Plain_Text
+
+To *Ayoba team*,
+This is an automatically generated email to notify you that a new
+publication request has been created on Ayoba Developer Portal: Developer
+Name: Katlego MicroApp Id: 584 Kindly add the microApp on the onboarding
+process sheet and provide you with feedback on the outcome of the Vetting
+and Compliance checks. Kind Regards, Ayoba team.
+
+
+
+Plain_HTML
+
+To=C2=A0 **Ayoba team** ,  
+
+<= div dir=3D"ltr">
+
+This is an automatically generated email to notify you that a new publicati=
+on request has been created on Ayoba Developer Portal: Developer Name: Katlego
+MicroApp Id: 584 Kindly add the microApp on the onboarding process sheet and
+provide you wit= h feedback on the outcome of the Vetting and Compliance
+checks. Kind Regards, Ayoba team.  
+
+
+
+
+HTML
+
+<div dir=3D"ltr"><span style=3D"color:rgb(32,33,36);font-family:Roboto,sans=
+-serif;font-size:14px;white-space:pre-wrap;background-color:rgba(32,33,36,0=
+.04)">To=C2=A0</span><b style=3D"font-feature-settings:normal;font-variant-=
+ligatures:normal;font-family:Roboto,sans-serif;background-image:none;backgr=
+ound-position:0%;background-size:auto;background-repeat:repeat;background-o=
+rigin:padding-box;background-clip:border-box;border:0px;font-size:14px;marg=
+in:0px;outline:0px;padding:0px;vertical-align:baseline;color:rgb(32,33,36);=
+white-space:pre-wrap">Ayoba team</b><span style=3D"color:rgb(32,33,36);font=
+-family:Roboto,sans-serif;font-size:14px;white-space:pre-wrap;background-co=
+lor:rgba(32,33,36,0.04)">,</span><br><div class=3D"gmail_quote"><div dir=3D=
+"ltr"><div class=3D"gmail_quote"><div dir=3D"ltr"><div class=3D"gmail_quote=
+"><div dir=3D"ltr"><div class=3D"gmail_quote"><div dir=3D"ltr"><div class=
+=3D"gmail_quote"><div dir=3D"ltr"><div class=3D"gmail_quote"><div dir=3D"lt=
+r"><div class=3D"gmail_quote"><div dir=3D"ltr"><div class=3D"gmail_quote"><=
+div dir=3D"ltr"><div class=3D"gmail_quote"><div dir=3D"ltr"><div class=3D"g=
+mail_quote"><div dir=3D"ltr"><div class=3D"gmail_quote"><div dir=3D"ltr"><d=
+iv class=3D"gmail_quote"><div dir=3D"ltr"><div class=3D"gmail_quote"><div d=
+ir=3D"ltr"><div class=3D"gmail_quote"><div dir=3D"ltr"><span style=3D"color=
+:rgb(32,33,36);font-family:Roboto,sans-serif;font-size:14px;white-space:pre=
+-wrap;background-color:rgba(32,33,36,0.04)">
+This is an automatically generated email to notify you that a new publicati=
+on request has been created on Ayoba Developer Portal:
+
+Developer Name: Katlego
+MicroApp Id: 584
+
+Kindly add the microApp on the onboarding process sheet and provide you wit=
+h feedback on the outcome of the Vetting and Compliance checks.
+
+Kind Regards,
+
+Ayoba team.</span><br></div>
+</div></div>
+</div></div>
+</div></div>
+</div></div>
+</div></div>
+</div></div>
+</div></div>
+</div></div>
+</div></div>
+</div></div>
+</div></div>
+</div></div>
+</div></div>
+</div></div>
+
+
+

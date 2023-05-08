@@ -3,9 +3,8 @@ email_listener - uses the email_listener PYPI package
 EmailService - class abstracting the email services """
 from email_listener import EmailListener
 from decouple import config
-import re
 from services.strapi.service import strapi
-import asyncio
+
 class EmailService:
     """Service class managing all functionalities relating to the email service
     """
@@ -39,27 +38,12 @@ class EmailService:
         Returns:
             dict: A Dict of the mail retrieved and read
         """
-        try: 
-            mail: dict = self.__listener.scrape(move=self.__read_dest, unread=True) # 'Strapi' Collections Workflow
-            if re.match(r'*Ayoba Developer Portal*', dict(mail).get('Subject'), re.IGNORECASE):
-                micro_app_id = re.match(r'*MicroApp Id: (\d+)*', dict(mail).get('Plain_Text'), re.IGNORECASE)
-                if micro_app_id.groups() and micro_app_id.groups()[0].isnumeric():
-                    return {"email": mail, "app_id": int(micro_app_id.groups()[0])}
-            return {}
-        except BaseException as e:
-            print(e)
-            return {}
+        return self.__listener.scrape(move=self.__read_dest, unread=True) # 'Strapi' Collections Workflow
        
     def listen(self):
         """Listens for incoming mails on the IMAP server 
         """
-        try:
-            self.__listener.listen(self.__timeout)
-        except BaseException as e:
-            print(e)
-        finally:
-            self.__listener.logout()
-            print("logged out")       
+        self.__listener.listen(self.__timeout)
 
 if __name__ == "__main__":
     None
