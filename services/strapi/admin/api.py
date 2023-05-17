@@ -23,7 +23,7 @@ class MicroApps:
         if not id or type(id) is not int:
             return {"status": 'Invalid ID provided', 'result': 'ID must be integer'}
         try:
-            microapp: requests.Response = requests.get(f"{STRAPI}{MicroApps.__endpoint.get('fetchOne', 'api/micro-apps')}{id}")
+            microapp: requests.Response = requests.get(f"{STRAPI}{MicroApps.__endpoint.get('fetchOne', 'api/micro-apps/')}{id}")
             return {'status': microapp.status_code, 'result': microapp.json()}
         except BaseException as e:
             return {"status": 'Could not Make Request to Strapi', "result": str(e)}
